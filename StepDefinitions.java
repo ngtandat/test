@@ -1,1 +1,1 @@
-Cannot create function name from empty sentence
+Cannot create function name from empty sentence. Changed.
